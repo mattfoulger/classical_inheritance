@@ -12,6 +12,4 @@ require_relative 'bat'
 
 
 batty = Bat.new
-
-binding.byebug
-puts ""
+batty.flying
